@@ -1,0 +1,6 @@
+#structure{
+    display: table-row-group;
+}
+header, #cover, #structure, form {
+    display: inline-block;
+}
